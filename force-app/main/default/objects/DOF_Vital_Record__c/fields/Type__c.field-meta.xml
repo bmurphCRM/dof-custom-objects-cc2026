@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Type__c</fullName>
+    <externalId>false</externalId>
+    <label>Type</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Birth_Certificate</fullName>
+                <default>false</default>
+                <label>Birth Certificate</label>
+            </value>
+            <value>
+                <fullName>Death_Certificate</fullName>
+                <default>false</default>
+                <label>Death Certificate</label>
+            </value>
+            <value>
+                <fullName>Establishment_of_Paternity</fullName>
+                <default>false</default>
+                <label>Establishment of Paternity</label>
+            </value>
+            <value>
+                <fullName>Marriage_Certificate</fullName>
+                <default>false</default>
+                <label>Marriage Certificate</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
