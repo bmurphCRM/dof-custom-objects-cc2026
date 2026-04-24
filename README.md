@@ -2,6 +2,9 @@
 
 Custom Salesforce objects for the **Department of Finance (DOF)** built as part of the CC2026 project. This SFDX project contains 4 custom objects designed to manage core government finance operations including licensing, taxation, utility billing, and vital records.
 
+<img width="1781" height="814" alt="image" src="https://github.com/user-attachments/assets/1aa6cf2e-3e7e-4c4f-b22f-decf8a65d0ba" />
+
+
 ---
 
 ## Custom Objects
